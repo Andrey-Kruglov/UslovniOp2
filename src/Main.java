@@ -40,7 +40,7 @@ public class Main {
             System.out.println("Доствавки нет.");
         }
         System.out.println("Задача 5");
-        byte monthNumber = 5;
+        byte monthNumber = 6;
         switch (monthNumber) {
             case 12:
             case 1:
